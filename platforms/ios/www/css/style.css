@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+#timerButtons button{
+  width:90%;
+  height:130px;
+  font-size:3em;
+}
+
+.col{
+  text-align:center;
+}
