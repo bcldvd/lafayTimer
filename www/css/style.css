@@ -8,6 +8,19 @@
   font-size:3em;
 }
 
+#timeRemaining {
+    text-align: center;
+    padding-top: 20%;
+}
+
+#timeRemaining timer {
+    font-size: 7em;
+}
+
+#timeRemaining button {
+    margin-top: 5%;
+}
+
 .col{
   text-align:center;
 }
